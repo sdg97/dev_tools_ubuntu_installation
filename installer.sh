@@ -16,3 +16,10 @@ snap install --classic code
 code --version
 
 echo "---- VS CODE INSTALLED ----"
+
+echo "---- INSTALL POSTMAN ----"
+
+snap install postaman
+
+echo "---- VS POSTMAN INSTALLED ----"
+
